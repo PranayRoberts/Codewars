@@ -1,3 +1,6 @@
+""" Example: wave("hello") => ["Hello", "hEllo", "heLlo", "helLo", "hellO"]"""
+
+
 def wave(people):
     l=len(people)
     a=[]
